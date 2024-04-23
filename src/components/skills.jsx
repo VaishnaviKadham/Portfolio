@@ -63,24 +63,24 @@ const Experience = () => {
       title: "GitHub",
       style: "shadow-gray-400",
     },
-    {
-      id: 9,
-      src: mongodb,
-      title: "MongoDB",
-      style: "shadow-green-400",
-    },
-    {
-      id: 10,
-      src: nodejs,
-      title: "NodeJS",
-      style: "shadow-lime-500",
-    },
-    {
-      id: 11,
-      src: ExpressJs,
-      title: "Express Js",
-      style: "shadow-yellow-500",
-    },
+    // {
+    //   id: 9,
+    //   src: mongodb,
+    //   title: "MongoDB",
+    //   style: "shadow-green-400",
+    // },
+    // {
+    //   id: 10,
+    //   src: nodejs,
+    //   title: "NodeJS",
+    //   style: "shadow-lime-500",
+    // },
+    // {
+    //   id: 11,
+    //   src: ExpressJs,
+    //   title: "Express Js",
+    //   style: "shadow-yellow-500",
+    // },
 
   ];
 
